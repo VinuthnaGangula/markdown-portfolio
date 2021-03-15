@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_I am a **Computer Science** Student with programming knowledge in **C**, **C++**, **Java** languages._ 
